@@ -1,3 +1,3 @@
 ====================================================
-Currently Not Working, Will Release First Version Once Made Bootable.
+Currently Not Working, Will Create First Release Once Made Bootable.
 ====================================================
